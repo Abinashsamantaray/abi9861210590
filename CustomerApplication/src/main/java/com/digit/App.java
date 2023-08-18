@@ -26,7 +26,7 @@ public class App
 
         
 
-        
+        System.out.println("commit testing");
 
         entityManager.persist(customer);
 
